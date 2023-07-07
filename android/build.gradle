@@ -72,7 +72,7 @@ repositories {
 
 dependencies {
     //noinspection GradleDynamicVersion
-    implementation 'com.facebook.react:react-native:+'  // From node_modules
+    implementation 'com.facebook.react:react-native:0.72.1'
 
     implementation "com.sumsub.sns:idensic-mobile-sdk:1.18.4"
     implementation "com.sumsub.sns:idensic-mobile-sdk-prooface:1.18.4"
